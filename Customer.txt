@@ -1,0 +1,2 @@
+John,pass,S,0.0
+DELETED,pass,S,0.0

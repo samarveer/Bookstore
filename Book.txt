@@ -1,0 +1,5 @@
+Name Of The Wind,50
+The Way Of Kings,45
+Book 3,60.0
+DELETED,40.0
+Book 4,40.0
